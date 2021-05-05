@@ -1,0 +1,32 @@
+{
+  "name": "registration-form",
+  "version": "1.0.0",
+  "description": "Registration form by HTML, CSS, JS, Nodejs, Express, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TengoCharlie/Registration-form-Nodejs.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "nodejs",
+    "mongodb",
+    "expressjs",
+    "project",
+    "code",
+    "complete",
+    "boiler",
+    "plate"
+  ],
+  "author": "Harsh Tenguriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TengoCharlie/Registration-form-Nodejs/issues"
+  },
+  "homepage": "https://github.com/TengoCharlie/Registration-form-Nodejs#readme"
+}
